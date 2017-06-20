@@ -9,5 +9,3 @@ Dataset link:
 http://data.insideairbnb.com/united-states/ny/new-york-city/2017-05-02/data/listings.csv.gz
 
 http://data.insideairbnb.com/united-states/ny/new-york-city/2017-05-02/visualisations/neighbourhoods.geojson
-
-# Proj_interview
